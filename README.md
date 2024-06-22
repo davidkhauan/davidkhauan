@@ -3,7 +3,7 @@
 <p><em>Analytic and Developer System at <a href="https://www.unifor.br/">University of Ceará</a><img src="https://giphy.com/gifs/business-businessschool-ualberta-m9qG5VIVdTmfAI07Bc.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: davidkhauan](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkhauan/)](https://www.linkedin.com/in/davidkhauan/)
+[![Linkedin: davidkhauan](https://img.shields.io/badge/-davidkhauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkhauan/)](https://www.linkedin.com/in/davidkhauan/)
 [![GitHub David](https://img.shields.io/github/followers/david?label=follow&style=social)](https://github.com/davidkhauan)
 
 
