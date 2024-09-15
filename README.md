@@ -12,8 +12,8 @@
 ```javascript
 const david = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, mySQL],
-  tools: [React, Node, Styled-Components, jQuery, Angular, Vue, Ajax, BootStrap],
+  code: [Javascript, Typescript, HTML, CSS, Java, MySQL, MongoDB],
+  tools: [React, Node, jQuery, Angular, Vue, Ajax, BootStrap, Tailwind, Nest, Docker],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
