@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Khauan! <img src="./assets/greencode.webp" width="50"></h2>
 <img align='right' src="./assets/penguim.webp" width="230">
-<p><em>Analytic and Developer System at <a href="https://www.unifor.br/">University of Ceará</a></p>
+<p><em>Analytic and Developer System at <a href="https://www.unifor.br/" target="_blank">University of Ceará</a></p>
 
 [![Linkedin: davidkhauan](https://img.shields.io/badge/-davidkhauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkhauan/)](https://www.linkedin.com/in/davidkhauan/)
 [![GitHub David](https://img.shields.io/github/followers/david?label=follow&style=social)](https://github.com/davidkhauan)
