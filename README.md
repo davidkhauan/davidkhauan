@@ -12,7 +12,7 @@
 const david = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, MySQL, MongoDB],
-  tools: [React, Node, jQuery, Angular, Vue, Ajax, BootStrap, Tailwind, Nest, Docker],
+  tools: [React, Node, jQuery, Angular, Vue, Ajax, BootStrap, Tailwind, Nest, Next, Prisma, Docker],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
