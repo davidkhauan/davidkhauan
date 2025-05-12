@@ -212,7 +212,7 @@ Me chamo David Khauan, tenho 21 anos e sou natural do Ceará. Cursando Análise 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=davidkhauan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
